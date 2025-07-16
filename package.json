@@ -1,0 +1,22 @@
+{
+  "name": "@prabasajee/github-packages",
+  "version": "1.0.0",
+  "description": "Example of a GitHub scoped npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabasajee/GitHub-Packages.git"
+  },
+  "keywords": [
+    "Git"
+  ],
+  "author": "Prabaharan Sajeevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabasajee/GitHub-Packages/issues"
+  },
+  "homepage": "https://github.com/prabasajee/GitHub-Packages#readme"
+}
